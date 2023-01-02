@@ -1,0 +1,1615 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="float"/>
+<graph edgedefault="undirected"><node id="(-5572.57, 2839.81)"/>
+<node id="(-5400.52, 2707.84)"/>
+<node id="(-5577.4, 2768.64)"/>
+<node id="(-5468.21, 2891.63)"/>
+<node id="(-5509.0, 2756.92)"/>
+<node id="(-5484.79, 3016.03)"/>
+<node id="(-5772.25, 2877.83)"/>
+<node id="(-5570.49, 2788.7)"/>
+<node id="(-5714.88, 2864.02)"/>
+<node id="(-6729.21, 2962.82)"/>
+<node id="(-6709.88, 3102.4)"/>
+<node id="(-6683.62, 3008.43)"/>
+<node id="(-6660.11, 2935.87)"/>
+<node id="(-8326.72, 3219.84)"/>
+<node id="(-8313.57, 3276.5)"/>
+<node id="(-8176.09, 3183.22)"/>
+<node id="(-8459.38, 3264.08)"/>
+<node id="(-8112.52, 3293.77)"/>
+<node id="(-8452.47, 3288.93)"/>
+<node id="(-8500.82, 3105.14)"/>
+<node id="(-4961.07, 2920.67)"/>
+<node id="(-5047.44, 2870.91)"/>
+<node id="(-5015.64, 2908.91)"/>
+<node id="(-5109.61, 2958.66)"/>
+<node id="(-4976.25, 3069.21)"/>
+<node id="(-5041.91, 3013.26)"/>
+<node id="(-6202.7, 3014.64)"/>
+<node id="(-6193.72, 3106.52)"/>
+<node id="(-6068.67, 2926.89)"/>
+<node id="(-6380.27, 2936.57)"/>
+<node id="(-6188.88, 3076.14)"/>
+<node id="(-6156.4, 2920.67)"/>
+<node id="(-6388.57, 3041.59)"/>
+<node id="(-6178.52, 3153.51)"/>
+<node id="(-5544.93, 2494.33)"/>
+<node id="(-5383.92, 2365.84)"/>
+<node id="(-5685.17, 2603.52)"/>
+<node id="(-5551.82, 2343.71)"/>
+<node id="(-5463.38, 2636.0)"/>
+<node id="(-5375.64, 2483.28)"/>
+<node id="(-5523.51, 2575.2)"/>
+<node id="(-5351.44, 2593.85)"/>
+<node id="(-6712.64, 3446.49)"/>
+<node id="(-6772.07, 3241.95)"/>
+<node id="(-5220.18, 2746.55)"/>
+<node id="(-5320.37, 2850.2)"/>
+<node id="(-5322.42, 2687.11)"/>
+<node id="(-5223.61, 2651.18)"/>
+<node id="(-5246.43, 2786.63)"/>
+<node id="(-5166.26, 2779.7)"/>
+<node id="(-5195.3, 2832.23)"/>
+<node id="(-5228.45, 2861.23)"/>
+<node id="(-7159.69, 3326.96)"/>
+<node id="(-7230.86, 3483.78)"/>
+<node id="(-5245.72, 3038.81)"/>
+<node id="(-5198.07, 2978.71)"/>
+<node id="(-5261.63, 2974.55)"/>
+<node id="(-5362.51, 2982.15)"/>
+<node id="(-5790.89, 2758.28)"/>
+<node id="(-6805.21, 2342.34)"/>
+<node id="(-6711.93, 2179.95)"/>
+<node id="(-6675.33, 2324.36)"/>
+<node id="(-6680.17, 2434.22)"/>
+<node id="(-6939.97, 2173.73)"/>
+<node id="(-6725.75, 2604.2)"/>
+<node id="(-6626.97, 2498.48)"/>
+<node id="(-6610.36, 2698.17)"/>
+<node id="(-6744.43, 2683.68)"/>
+<node id="(-6553.01, 2747.93)"/>
+<node id="(-5531.11, 1846.22)"/>
+<node id="(-5696.92, 1931.22)"/>
+<node id="(-5702.45, 1889.08)"/>
+<node id="(-8456.6, 2861.92)"/>
+<node id="(-8479.42, 2656.02)"/>
+<node id="(-8394.41, 2666.4)"/>
+<node id="(-8278.33, 2730.66)"/>
+<node id="(-8446.23, 2776.26)"/>
+<node id="(-5690.01, 2157.15)"/>
+<node id="(-5754.27, 2130.2)"/>
+<node id="(-5823.36, 2103.96)"/>
+<node id="(-5689.32, 2252.5)"/>
+<node id="(-5602.95, 2216.59)"/>
+<node id="(-5618.84, 2065.25)"/>
+<node id="(-5916.64, 3092.7)"/>
+<node id="(-6039.65, 2727.21)"/>
+<node id="(-6194.43, 2749.99)"/>
+<node id="(-5959.5, 2879.91)"/>
+<node id="(-5975.39, 2908.91)"/>
+<node id="(-6506.72, 3148.67)"/>
+<node id="(-6432.79, 3105.85)"/>
+<node id="(-6702.97, 1990.63)"/>
+<node id="(-6584.82, 2235.23)"/>
+<node id="(-6805.92, 2032.79)"/>
+<node id="(-6047.92, 2672.62)"/>
+<node id="(-6231.74, 2668.46)"/>
+<node id="(-5865.51, 2752.08)"/>
+<node id="(-6279.39, 2235.23)"/>
+<node id="(-6129.46, 2367.2)"/>
+<node id="(-6477.72, 2246.28)"/>
+<node id="(-8507.06, 3404.34)"/>
+<node id="(-6498.45, 2309.87)"/>
+<node id="(-7909.38, 2940.71)"/>
+<node id="(-7730.4, 2816.32)"/>
+<node id="(-6050.69, 2294.65)"/>
+<node id="(-6012.69, 2240.06)"/>
+<node id="(-6445.93, 2571.74)"/>
+<node id="(-7667.55, 2226.26)"/>
+<node id="(-7221.19, 2568.27)"/>
+<node id="(-7320.67, 2465.33)"/>
+<node id="(-7324.14, 2662.24)"/>
+<node id="(-5828.2, 3212.26)"/>
+<node id="(-5799.89, 3000.82)"/>
+<node id="(-6441.79, 2674.67)"/>
+<node id="(-8380.61, 2622.85)"/>
+<node id="(-8421.36, 2580.03)"/>
+<node id="(-8458.67, 2610.42)"/>
+<node id="(-8405.49, 2533.72)"/>
+<node id="(-7132.05, 2806.65)"/>
+<node id="(-7162.46, 2893.02)"/>
+<node id="(-7390.45, 3095.47)"/>
+<node id="(-7222.55, 2307.8)"/>
+<node id="(-8270.73, 2378.25)"/>
+<node id="(-8144.31, 2332.65)"/>
+<node id="(-8094.56, 2260.1)"/>
+<node id="(-8105.59, 2356.85)"/>
+<node id="(-7547.32, 2873.69)"/>
+<node id="(-7744.91, 2678.84)"/>
+<edge source="(-5572.57, 2839.81)" target="(-5572.57, 2839.81)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5572.57, 2839.81)" target="(-5400.52, 2707.84)">
+  <data key="d0">1510.0</data>
+</edge>
+<edge source="(-5572.57, 2839.81)" target="(-5577.4, 2768.64)">
+  <data key="d0">1017.0</data>
+</edge>
+<edge source="(-5572.57, 2839.81)" target="(-5468.21, 2891.63)">
+  <data key="d0">326.0</data>
+</edge>
+<edge source="(-5572.57, 2839.81)" target="(-5509.0, 2756.92)">
+  <data key="d0">417.0</data>
+</edge>
+<edge source="(-5572.57, 2839.81)" target="(-5484.79, 3016.03)">
+  <data key="d0">435.0</data>
+</edge>
+<edge source="(-5572.57, 2839.81)" target="(-5772.25, 2877.83)">
+  <data key="d0">775.0</data>
+</edge>
+<edge source="(-5572.57, 2839.81)" target="(-5570.49, 2788.7)">
+  <data key="d0">675.0</data>
+</edge>
+<edge source="(-5572.57, 2839.81)" target="(-5714.88, 2864.02)">
+  <data key="d0">2493.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5400.52, 2707.84)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5220.18, 2746.55)">
+  <data key="d0">1305.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5320.37, 2850.2)">
+  <data key="d0">369.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5577.4, 2768.64)">
+  <data key="d0">203.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5322.42, 2687.11)">
+  <data key="d0">2936.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5468.21, 2891.63)">
+  <data key="d0">976.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5509.0, 2756.92)">
+  <data key="d0">1356.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5570.49, 2788.7)">
+  <data key="d0">944.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5463.38, 2636.0)">
+  <data key="d0">447.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5223.61, 2651.18)">
+  <data key="d0">3057.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5375.64, 2483.28)">
+  <data key="d0">837.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5523.51, 2575.2)">
+  <data key="d0">2725.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5351.44, 2593.85)">
+  <data key="d0">577.0</data>
+</edge>
+<edge source="(-5400.52, 2707.84)" target="(-5246.43, 2786.63)">
+  <data key="d0">345.0</data>
+</edge>
+<edge source="(-5577.4, 2768.64)" target="(-5685.17, 2603.52)">
+  <data key="d0">2442.0</data>
+</edge>
+<edge source="(-5577.4, 2768.64)" target="(-5577.4, 2768.64)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5577.4, 2768.64)" target="(-5468.21, 2891.63)">
+  <data key="d0">172.0</data>
+</edge>
+<edge source="(-5577.4, 2768.64)" target="(-5509.0, 2756.92)">
+  <data key="d0">533.0</data>
+</edge>
+<edge source="(-5577.4, 2768.64)" target="(-5772.25, 2877.83)">
+  <data key="d0">2440.0</data>
+</edge>
+<edge source="(-5577.4, 2768.64)" target="(-5570.49, 2788.7)">
+  <data key="d0">365.0</data>
+</edge>
+<edge source="(-5577.4, 2768.64)" target="(-5463.38, 2636.0)">
+  <data key="d0">549.0</data>
+</edge>
+<edge source="(-5577.4, 2768.64)" target="(-5790.89, 2758.28)">
+  <data key="d0">689.0</data>
+</edge>
+<edge source="(-5577.4, 2768.64)" target="(-5714.88, 2864.02)">
+  <data key="d0">1010.0</data>
+</edge>
+<edge source="(-5577.4, 2768.64)" target="(-5523.51, 2575.2)">
+  <data key="d0">1081.0</data>
+</edge>
+<edge source="(-5468.21, 2891.63)" target="(-5320.37, 2850.2)">
+  <data key="d0">198.0</data>
+</edge>
+<edge source="(-5468.21, 2891.63)" target="(-5468.21, 2891.63)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5468.21, 2891.63)" target="(-5509.0, 2756.92)">
+  <data key="d0">267.0</data>
+</edge>
+<edge source="(-5468.21, 2891.63)" target="(-5484.79, 3016.03)">
+  <data key="d0">1159.0</data>
+</edge>
+<edge source="(-5468.21, 2891.63)" target="(-5261.63, 2974.55)">
+  <data key="d0">231.0</data>
+</edge>
+<edge source="(-5468.21, 2891.63)" target="(-5570.49, 2788.7)">
+  <data key="d0">2636.0</data>
+</edge>
+<edge source="(-5468.21, 2891.63)" target="(-5362.51, 2982.15)">
+  <data key="d0">2658.0</data>
+</edge>
+<edge source="(-5509.0, 2756.92)" target="(-5320.37, 2850.2)">
+  <data key="d0">458.0</data>
+</edge>
+<edge source="(-5509.0, 2756.92)" target="(-5322.42, 2687.11)">
+  <data key="d0">1578.0</data>
+</edge>
+<edge source="(-5509.0, 2756.92)" target="(-5509.0, 2756.92)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5509.0, 2756.92)" target="(-5570.49, 2788.7)">
+  <data key="d0">446.0</data>
+</edge>
+<edge source="(-5509.0, 2756.92)" target="(-5463.38, 2636.0)">
+  <data key="d0">465.0</data>
+</edge>
+<edge source="(-5509.0, 2756.92)" target="(-5523.51, 2575.2)">
+  <data key="d0">1547.0</data>
+</edge>
+<edge source="(-5509.0, 2756.92)" target="(-5351.44, 2593.85)">
+  <data key="d0">496.0</data>
+</edge>
+<edge source="(-5484.79, 3016.03)" target="(-5484.79, 3016.03)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5484.79, 3016.03)" target="(-5261.63, 2974.55)">
+  <data key="d0">354.0</data>
+</edge>
+<edge source="(-5484.79, 3016.03)" target="(-5362.51, 2982.15)">
+  <data key="d0">2398.0</data>
+</edge>
+<edge source="(-5772.25, 2877.83)" target="(-5772.25, 2877.83)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5772.25, 2877.83)" target="(-5570.49, 2788.7)">
+  <data key="d0">238.0</data>
+</edge>
+<edge source="(-5772.25, 2877.83)" target="(-5790.89, 2758.28)">
+  <data key="d0">843.0</data>
+</edge>
+<edge source="(-5772.25, 2877.83)" target="(-5959.5, 2879.91)">
+  <data key="d0">922.0</data>
+</edge>
+<edge source="(-5772.25, 2877.83)" target="(-5714.88, 2864.02)">
+  <data key="d0">728.0</data>
+</edge>
+<edge source="(-5772.25, 2877.83)" target="(-5975.39, 2908.91)">
+  <data key="d0">629.0</data>
+</edge>
+<edge source="(-5772.25, 2877.83)" target="(-5799.89, 3000.82)">
+  <data key="d0">2430.0</data>
+</edge>
+<edge source="(-5772.25, 2877.83)" target="(-5865.51, 2752.08)">
+  <data key="d0">787.0</data>
+</edge>
+<edge source="(-5570.49, 2788.7)" target="(-5685.17, 2603.52)">
+  <data key="d0">878.0</data>
+</edge>
+<edge source="(-5570.49, 2788.7)" target="(-5570.49, 2788.7)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5570.49, 2788.7)" target="(-5463.38, 2636.0)">
+  <data key="d0">1237.0</data>
+</edge>
+<edge source="(-5570.49, 2788.7)" target="(-5790.89, 2758.28)">
+  <data key="d0">2299.0</data>
+</edge>
+<edge source="(-5570.49, 2788.7)" target="(-5714.88, 2864.02)">
+  <data key="d0">1250.0</data>
+</edge>
+<edge source="(-5570.49, 2788.7)" target="(-5523.51, 2575.2)">
+  <data key="d0">417.0</data>
+</edge>
+<edge source="(-5714.88, 2864.02)" target="(-5790.89, 2758.28)">
+  <data key="d0">417.0</data>
+</edge>
+<edge source="(-5714.88, 2864.02)" target="(-5714.88, 2864.02)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5714.88, 2864.02)" target="(-5799.89, 3000.82)">
+  <data key="d0">2238.0</data>
+</edge>
+<edge source="(-5714.88, 2864.02)" target="(-5865.51, 2752.08)">
+  <data key="d0">2188.0</data>
+</edge>
+<edge source="(-6729.21, 2962.82)" target="(-6729.21, 2962.82)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6729.21, 2962.82)" target="(-6709.88, 3102.4)">
+  <data key="d0">393.0</data>
+</edge>
+<edge source="(-6729.21, 2962.82)" target="(-6683.62, 3008.43)">
+  <data key="d0">1278.0</data>
+</edge>
+<edge source="(-6729.21, 2962.82)" target="(-6660.11, 2935.87)">
+  <data key="d0">589.0</data>
+</edge>
+<edge source="(-6709.88, 3102.4)" target="(-6709.88, 3102.4)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6709.88, 3102.4)" target="(-6772.07, 3241.95)">
+  <data key="d0">1361.0</data>
+</edge>
+<edge source="(-6709.88, 3102.4)" target="(-6683.62, 3008.43)">
+  <data key="d0">1054.0</data>
+</edge>
+<edge source="(-6709.88, 3102.4)" target="(-6660.11, 2935.87)">
+  <data key="d0">265.0</data>
+</edge>
+<edge source="(-6709.88, 3102.4)" target="(-6506.72, 3148.67)">
+  <data key="d0">1701.0</data>
+</edge>
+<edge source="(-6683.62, 3008.43)" target="(-6683.62, 3008.43)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6683.62, 3008.43)" target="(-6660.11, 2935.87)">
+  <data key="d0">899.0</data>
+</edge>
+<edge source="(-6683.62, 3008.43)" target="(-6506.72, 3148.67)">
+  <data key="d0">1228.0</data>
+</edge>
+<edge source="(-6660.11, 2935.87)" target="(-6660.11, 2935.87)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6660.11, 2935.87)" target="(-6553.01, 2747.93)">
+  <data key="d0">687.0</data>
+</edge>
+<edge source="(-8326.72, 3219.84)" target="(-8326.72, 3219.84)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8326.72, 3219.84)" target="(-8313.57, 3276.5)">
+  <data key="d0">1783.0</data>
+</edge>
+<edge source="(-8326.72, 3219.84)" target="(-8176.09, 3183.22)">
+  <data key="d0">2873.0</data>
+</edge>
+<edge source="(-8326.72, 3219.84)" target="(-8459.38, 3264.08)">
+  <data key="d0">2295.0</data>
+</edge>
+<edge source="(-8326.72, 3219.84)" target="(-8112.52, 3293.77)">
+  <data key="d0">1830.0</data>
+</edge>
+<edge source="(-8326.72, 3219.84)" target="(-8452.47, 3288.93)">
+  <data key="d0">2093.0</data>
+</edge>
+<edge source="(-8326.72, 3219.84)" target="(-8500.82, 3105.14)">
+  <data key="d0">722.0</data>
+</edge>
+<edge source="(-8313.57, 3276.5)" target="(-8313.57, 3276.5)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8313.57, 3276.5)" target="(-8176.09, 3183.22)">
+  <data key="d0">1002.0</data>
+</edge>
+<edge source="(-8313.57, 3276.5)" target="(-8459.38, 3264.08)">
+  <data key="d0">2853.0</data>
+</edge>
+<edge source="(-8313.57, 3276.5)" target="(-8112.52, 3293.77)">
+  <data key="d0">2058.0</data>
+</edge>
+<edge source="(-8313.57, 3276.5)" target="(-8452.47, 3288.93)">
+  <data key="d0">1870.0</data>
+</edge>
+<edge source="(-8176.09, 3183.22)" target="(-8176.09, 3183.22)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8176.09, 3183.22)" target="(-8112.52, 3293.77)">
+  <data key="d0">538.0</data>
+</edge>
+<edge source="(-8459.38, 3264.08)" target="(-8507.06, 3404.34)">
+  <data key="d0">1883.0</data>
+</edge>
+<edge source="(-8459.38, 3264.08)" target="(-8459.38, 3264.08)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8459.38, 3264.08)" target="(-8452.47, 3288.93)">
+  <data key="d0">2826.0</data>
+</edge>
+<edge source="(-8459.38, 3264.08)" target="(-8500.82, 3105.14)">
+  <data key="d0">2389.0</data>
+</edge>
+<edge source="(-8112.52, 3293.77)" target="(-8112.52, 3293.77)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8452.47, 3288.93)" target="(-8507.06, 3404.34)">
+  <data key="d0">1572.0</data>
+</edge>
+<edge source="(-8452.47, 3288.93)" target="(-8452.47, 3288.93)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8452.47, 3288.93)" target="(-8500.82, 3105.14)">
+  <data key="d0">1616.0</data>
+</edge>
+<edge source="(-8500.82, 3105.14)" target="(-8500.82, 3105.14)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-4961.07, 2920.67)" target="(-4961.07, 2920.67)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-4961.07, 2920.67)" target="(-5047.44, 2870.91)">
+  <data key="d0">958.0</data>
+</edge>
+<edge source="(-4961.07, 2920.67)" target="(-5015.64, 2908.91)">
+  <data key="d0">1803.0</data>
+</edge>
+<edge source="(-4961.07, 2920.67)" target="(-5109.61, 2958.66)">
+  <data key="d0">1187.0</data>
+</edge>
+<edge source="(-4961.07, 2920.67)" target="(-4976.25, 3069.21)">
+  <data key="d0">1412.0</data>
+</edge>
+<edge source="(-4961.07, 2920.67)" target="(-5041.91, 3013.26)">
+  <data key="d0">1384.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-5220.18, 2746.55)">
+  <data key="d0">512.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-5047.44, 2870.91)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-5198.07, 2978.71)">
+  <data key="d0">1818.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-5166.26, 2779.7)">
+  <data key="d0">888.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-5195.3, 2832.23)">
+  <data key="d0">1241.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-5015.64, 2908.91)">
+  <data key="d0">1194.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-5228.45, 2861.23)">
+  <data key="d0">1081.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-5109.61, 2958.66)">
+  <data key="d0">126.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-4976.25, 3069.21)">
+  <data key="d0">1930.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-5041.91, 3013.26)">
+  <data key="d0">3108.0</data>
+</edge>
+<edge source="(-5047.44, 2870.91)" target="(-5246.43, 2786.63)">
+  <data key="d0">1796.0</data>
+</edge>
+<edge source="(-5015.64, 2908.91)" target="(-5198.07, 2978.71)">
+  <data key="d0">1850.0</data>
+</edge>
+<edge source="(-5015.64, 2908.91)" target="(-5166.26, 2779.7)">
+  <data key="d0">1184.0</data>
+</edge>
+<edge source="(-5015.64, 2908.91)" target="(-5195.3, 2832.23)">
+  <data key="d0">424.0</data>
+</edge>
+<edge source="(-5015.64, 2908.91)" target="(-5015.64, 2908.91)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5015.64, 2908.91)" target="(-5228.45, 2861.23)">
+  <data key="d0">597.0</data>
+</edge>
+<edge source="(-5015.64, 2908.91)" target="(-5109.61, 2958.66)">
+  <data key="d0">1472.0</data>
+</edge>
+<edge source="(-5015.64, 2908.91)" target="(-4976.25, 3069.21)">
+  <data key="d0">2610.0</data>
+</edge>
+<edge source="(-5015.64, 2908.91)" target="(-5041.91, 3013.26)">
+  <data key="d0">1972.0</data>
+</edge>
+<edge source="(-5109.61, 2958.66)" target="(-5245.72, 3038.81)">
+  <data key="d0">841.0</data>
+</edge>
+<edge source="(-5109.61, 2958.66)" target="(-5198.07, 2978.71)">
+  <data key="d0">1887.0</data>
+</edge>
+<edge source="(-5109.61, 2958.66)" target="(-5166.26, 2779.7)">
+  <data key="d0">1168.0</data>
+</edge>
+<edge source="(-5109.61, 2958.66)" target="(-5261.63, 2974.55)">
+  <data key="d0">126.0</data>
+</edge>
+<edge source="(-5109.61, 2958.66)" target="(-5195.3, 2832.23)">
+  <data key="d0">1434.0</data>
+</edge>
+<edge source="(-5109.61, 2958.66)" target="(-5228.45, 2861.23)">
+  <data key="d0">1374.0</data>
+</edge>
+<edge source="(-5109.61, 2958.66)" target="(-5109.61, 2958.66)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5109.61, 2958.66)" target="(-4976.25, 3069.21)">
+  <data key="d0">1264.0</data>
+</edge>
+<edge source="(-5109.61, 2958.66)" target="(-5041.91, 3013.26)">
+  <data key="d0">1856.0</data>
+</edge>
+<edge source="(-5109.61, 2958.66)" target="(-5246.43, 2786.63)">
+  <data key="d0">1737.0</data>
+</edge>
+<edge source="(-4976.25, 3069.21)" target="(-4976.25, 3069.21)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-4976.25, 3069.21)" target="(-5041.91, 3013.26)">
+  <data key="d0">1088.0</data>
+</edge>
+<edge source="(-5041.91, 3013.26)" target="(-5245.72, 3038.81)">
+  <data key="d0">3047.0</data>
+</edge>
+<edge source="(-5041.91, 3013.26)" target="(-5198.07, 2978.71)">
+  <data key="d0">2078.0</data>
+</edge>
+<edge source="(-5041.91, 3013.26)" target="(-5261.63, 2974.55)">
+  <data key="d0">207.0</data>
+</edge>
+<edge source="(-5041.91, 3013.26)" target="(-5041.91, 3013.26)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6202.7, 3014.64)" target="(-6202.7, 3014.64)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6202.7, 3014.64)" target="(-6193.72, 3106.52)">
+  <data key="d0">708.0</data>
+</edge>
+<edge source="(-6202.7, 3014.64)" target="(-6068.67, 2926.89)">
+  <data key="d0">1360.0</data>
+</edge>
+<edge source="(-6202.7, 3014.64)" target="(-6380.27, 2936.57)">
+  <data key="d0">1178.0</data>
+</edge>
+<edge source="(-6202.7, 3014.64)" target="(-6188.88, 3076.14)">
+  <data key="d0">929.0</data>
+</edge>
+<edge source="(-6202.7, 3014.64)" target="(-6156.4, 2920.67)">
+  <data key="d0">2056.0</data>
+</edge>
+<edge source="(-6202.7, 3014.64)" target="(-6388.57, 3041.59)">
+  <data key="d0">1205.0</data>
+</edge>
+<edge source="(-6202.7, 3014.64)" target="(-6178.52, 3153.51)">
+  <data key="d0">260.0</data>
+</edge>
+<edge source="(-6193.72, 3106.52)" target="(-6193.72, 3106.52)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6193.72, 3106.52)" target="(-6068.67, 2926.89)">
+  <data key="d0">436.0</data>
+</edge>
+<edge source="(-6193.72, 3106.52)" target="(-6188.88, 3076.14)">
+  <data key="d0">1575.0</data>
+</edge>
+<edge source="(-6193.72, 3106.52)" target="(-6156.4, 2920.67)">
+  <data key="d0">1237.0</data>
+</edge>
+<edge source="(-6193.72, 3106.52)" target="(-6388.57, 3041.59)">
+  <data key="d0">1262.0</data>
+</edge>
+<edge source="(-6193.72, 3106.52)" target="(-6178.52, 3153.51)">
+  <data key="d0">2028.0</data>
+</edge>
+<edge source="(-6068.67, 2926.89)" target="(-6068.67, 2926.89)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6068.67, 2926.89)" target="(-5916.64, 3092.7)">
+  <data key="d0">591.0</data>
+</edge>
+<edge source="(-6068.67, 2926.89)" target="(-6039.65, 2727.21)">
+  <data key="d0">941.0</data>
+</edge>
+<edge source="(-6068.67, 2926.89)" target="(-6188.88, 3076.14)">
+  <data key="d0">1133.0</data>
+</edge>
+<edge source="(-6068.67, 2926.89)" target="(-6194.43, 2749.99)">
+  <data key="d0">872.0</data>
+</edge>
+<edge source="(-6068.67, 2926.89)" target="(-5959.5, 2879.91)">
+  <data key="d0">414.0</data>
+</edge>
+<edge source="(-6068.67, 2926.89)" target="(-5975.39, 2908.91)">
+  <data key="d0">387.0</data>
+</edge>
+<edge source="(-6068.67, 2926.89)" target="(-6156.4, 2920.67)">
+  <data key="d0">2035.0</data>
+</edge>
+<edge source="(-6380.27, 2936.57)" target="(-6380.27, 2936.57)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6380.27, 2936.57)" target="(-6432.79, 3105.85)">
+  <data key="d0">486.0</data>
+</edge>
+<edge source="(-6380.27, 2936.57)" target="(-6156.4, 2920.67)">
+  <data key="d0">2150.0</data>
+</edge>
+<edge source="(-6380.27, 2936.57)" target="(-6388.57, 3041.59)">
+  <data key="d0">2021.0</data>
+</edge>
+<edge source="(-6188.88, 3076.14)" target="(-6188.88, 3076.14)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6188.88, 3076.14)" target="(-6156.4, 2920.67)">
+  <data key="d0">2043.0</data>
+</edge>
+<edge source="(-6188.88, 3076.14)" target="(-6388.57, 3041.59)">
+  <data key="d0">1211.0</data>
+</edge>
+<edge source="(-6188.88, 3076.14)" target="(-6178.52, 3153.51)">
+  <data key="d0">753.0</data>
+</edge>
+<edge source="(-6156.4, 2920.67)" target="(-6039.65, 2727.21)">
+  <data key="d0">758.0</data>
+</edge>
+<edge source="(-6156.4, 2920.67)" target="(-6194.43, 2749.99)">
+  <data key="d0">591.0</data>
+</edge>
+<edge source="(-6156.4, 2920.67)" target="(-5959.5, 2879.91)">
+  <data key="d0">874.0</data>
+</edge>
+<edge source="(-6156.4, 2920.67)" target="(-5975.39, 2908.91)">
+  <data key="d0">826.0</data>
+</edge>
+<edge source="(-6156.4, 2920.67)" target="(-6156.4, 2920.67)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6388.57, 3041.59)" target="(-6432.79, 3105.85)">
+  <data key="d0">650.0</data>
+</edge>
+<edge source="(-6388.57, 3041.59)" target="(-6506.72, 3148.67)">
+  <data key="d0">1092.0</data>
+</edge>
+<edge source="(-6388.57, 3041.59)" target="(-6388.57, 3041.59)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6178.52, 3153.51)" target="(-6178.52, 3153.51)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5544.93, 2494.33)" target="(-5544.93, 2494.33)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5544.93, 2494.33)" target="(-5383.92, 2365.84)">
+  <data key="d0">2956.0</data>
+</edge>
+<edge source="(-5544.93, 2494.33)" target="(-5685.17, 2603.52)">
+  <data key="d0">1408.0</data>
+</edge>
+<edge source="(-5544.93, 2494.33)" target="(-5551.82, 2343.71)">
+  <data key="d0">715.0</data>
+</edge>
+<edge source="(-5544.93, 2494.33)" target="(-5463.38, 2636.0)">
+  <data key="d0">367.0</data>
+</edge>
+<edge source="(-5544.93, 2494.33)" target="(-5375.64, 2483.28)">
+  <data key="d0">1367.0</data>
+</edge>
+<edge source="(-5544.93, 2494.33)" target="(-5523.51, 2575.2)">
+  <data key="d0">1647.0</data>
+</edge>
+<edge source="(-5544.93, 2494.33)" target="(-5351.44, 2593.85)">
+  <data key="d0">120.0</data>
+</edge>
+<edge source="(-5383.92, 2365.84)" target="(-5383.92, 2365.84)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5383.92, 2365.84)" target="(-5551.82, 2343.71)">
+  <data key="d0">1151.0</data>
+</edge>
+<edge source="(-5383.92, 2365.84)" target="(-5375.64, 2483.28)">
+  <data key="d0">1204.0</data>
+</edge>
+<edge source="(-5685.17, 2603.52)" target="(-5685.17, 2603.52)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5685.17, 2603.52)" target="(-5463.38, 2636.0)">
+  <data key="d0">1064.0</data>
+</edge>
+<edge source="(-5685.17, 2603.52)" target="(-5790.89, 2758.28)">
+  <data key="d0">202.0</data>
+</edge>
+<edge source="(-5685.17, 2603.52)" target="(-5523.51, 2575.2)">
+  <data key="d0">626.0</data>
+</edge>
+<edge source="(-5551.82, 2343.71)" target="(-5689.32, 2252.5)">
+  <data key="d0">665.0</data>
+</edge>
+<edge source="(-5551.82, 2343.71)" target="(-5551.82, 2343.71)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5551.82, 2343.71)" target="(-5602.95, 2216.59)">
+  <data key="d0">1206.0</data>
+</edge>
+<edge source="(-5551.82, 2343.71)" target="(-5375.64, 2483.28)">
+  <data key="d0">593.0</data>
+</edge>
+<edge source="(-5463.38, 2636.0)" target="(-5322.42, 2687.11)">
+  <data key="d0">484.0</data>
+</edge>
+<edge source="(-5463.38, 2636.0)" target="(-5463.38, 2636.0)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5463.38, 2636.0)" target="(-5375.64, 2483.28)">
+  <data key="d0">668.0</data>
+</edge>
+<edge source="(-5463.38, 2636.0)" target="(-5523.51, 2575.2)">
+  <data key="d0">2781.0</data>
+</edge>
+<edge source="(-5463.38, 2636.0)" target="(-5351.44, 2593.85)">
+  <data key="d0">473.0</data>
+</edge>
+<edge source="(-5375.64, 2483.28)" target="(-5322.42, 2687.11)">
+  <data key="d0">1863.0</data>
+</edge>
+<edge source="(-5375.64, 2483.28)" target="(-5223.61, 2651.18)">
+  <data key="d0">466.0</data>
+</edge>
+<edge source="(-5375.64, 2483.28)" target="(-5375.64, 2483.28)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5375.64, 2483.28)" target="(-5523.51, 2575.2)">
+  <data key="d0">860.0</data>
+</edge>
+<edge source="(-5375.64, 2483.28)" target="(-5351.44, 2593.85)">
+  <data key="d0">225.0</data>
+</edge>
+<edge source="(-5523.51, 2575.2)" target="(-5523.51, 2575.2)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5523.51, 2575.2)" target="(-5351.44, 2593.85)">
+  <data key="d0">390.0</data>
+</edge>
+<edge source="(-5351.44, 2593.85)" target="(-5220.18, 2746.55)">
+  <data key="d0">688.0</data>
+</edge>
+<edge source="(-5351.44, 2593.85)" target="(-5322.42, 2687.11)">
+  <data key="d0">2702.0</data>
+</edge>
+<edge source="(-5351.44, 2593.85)" target="(-5223.61, 2651.18)">
+  <data key="d0">810.0</data>
+</edge>
+<edge source="(-5351.44, 2593.85)" target="(-5351.44, 2593.85)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5351.44, 2593.85)" target="(-5246.43, 2786.63)">
+  <data key="d0">1596.0</data>
+</edge>
+<edge source="(-6712.64, 3446.49)" target="(-6712.64, 3446.49)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6712.64, 3446.49)" target="(-6772.07, 3241.95)">
+  <data key="d0">1225.0</data>
+</edge>
+<edge source="(-6772.07, 3241.95)" target="(-6772.07, 3241.95)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5220.18, 2746.55)" target="(-5220.18, 2746.55)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5220.18, 2746.55)" target="(-5320.37, 2850.2)">
+  <data key="d0">1203.0</data>
+</edge>
+<edge source="(-5220.18, 2746.55)" target="(-5322.42, 2687.11)">
+  <data key="d0">1051.0</data>
+</edge>
+<edge source="(-5220.18, 2746.55)" target="(-5166.26, 2779.7)">
+  <data key="d0">951.0</data>
+</edge>
+<edge source="(-5220.18, 2746.55)" target="(-5195.3, 2832.23)">
+  <data key="d0">1231.0</data>
+</edge>
+<edge source="(-5220.18, 2746.55)" target="(-5228.45, 2861.23)">
+  <data key="d0">642.0</data>
+</edge>
+<edge source="(-5220.18, 2746.55)" target="(-5223.61, 2651.18)">
+  <data key="d0">2934.0</data>
+</edge>
+<edge source="(-5220.18, 2746.55)" target="(-5246.43, 2786.63)">
+  <data key="d0">281.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5320.37, 2850.2)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5245.72, 3038.81)">
+  <data key="d0">234.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5322.42, 2687.11)">
+  <data key="d0">1285.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5198.07, 2978.71)">
+  <data key="d0">1005.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5166.26, 2779.7)">
+  <data key="d0">2991.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5261.63, 2974.55)">
+  <data key="d0">2365.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5195.3, 2832.23)">
+  <data key="d0">815.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5228.45, 2861.23)">
+  <data key="d0">843.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5223.61, 2651.18)">
+  <data key="d0">3040.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5362.51, 2982.15)">
+  <data key="d0">1053.0</data>
+</edge>
+<edge source="(-5320.37, 2850.2)" target="(-5246.43, 2786.63)">
+  <data key="d0">1948.0</data>
+</edge>
+<edge source="(-5322.42, 2687.11)" target="(-5322.42, 2687.11)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5322.42, 2687.11)" target="(-5166.26, 2779.7)">
+  <data key="d0">3029.0</data>
+</edge>
+<edge source="(-5322.42, 2687.11)" target="(-5195.3, 2832.23)">
+  <data key="d0">1752.0</data>
+</edge>
+<edge source="(-5322.42, 2687.11)" target="(-5228.45, 2861.23)">
+  <data key="d0">1198.0</data>
+</edge>
+<edge source="(-5322.42, 2687.11)" target="(-5223.61, 2651.18)">
+  <data key="d0">1392.0</data>
+</edge>
+<edge source="(-5322.42, 2687.11)" target="(-5246.43, 2786.63)">
+  <data key="d0">1285.0</data>
+</edge>
+<edge source="(-5223.61, 2651.18)" target="(-5166.26, 2779.7)">
+  <data key="d0">803.0</data>
+</edge>
+<edge source="(-5223.61, 2651.18)" target="(-5195.3, 2832.23)">
+  <data key="d0">1482.0</data>
+</edge>
+<edge source="(-5223.61, 2651.18)" target="(-5228.45, 2861.23)">
+  <data key="d0">2800.0</data>
+</edge>
+<edge source="(-5223.61, 2651.18)" target="(-5223.61, 2651.18)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5223.61, 2651.18)" target="(-5246.43, 2786.63)">
+  <data key="d0">2668.0</data>
+</edge>
+<edge source="(-5246.43, 2786.63)" target="(-5198.07, 2978.71)">
+  <data key="d0">2932.0</data>
+</edge>
+<edge source="(-5246.43, 2786.63)" target="(-5166.26, 2779.7)">
+  <data key="d0">1634.0</data>
+</edge>
+<edge source="(-5246.43, 2786.63)" target="(-5261.63, 2974.55)">
+  <data key="d0">1267.0</data>
+</edge>
+<edge source="(-5246.43, 2786.63)" target="(-5195.3, 2832.23)">
+  <data key="d0">802.0</data>
+</edge>
+<edge source="(-5246.43, 2786.63)" target="(-5228.45, 2861.23)">
+  <data key="d0">774.0</data>
+</edge>
+<edge source="(-5246.43, 2786.63)" target="(-5362.51, 2982.15)">
+  <data key="d0">57.0</data>
+</edge>
+<edge source="(-5246.43, 2786.63)" target="(-5246.43, 2786.63)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5166.26, 2779.7)" target="(-5198.07, 2978.71)">
+  <data key="d0">526.0</data>
+</edge>
+<edge source="(-5166.26, 2779.7)" target="(-5166.26, 2779.7)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5166.26, 2779.7)" target="(-5261.63, 2974.55)">
+  <data key="d0">287.0</data>
+</edge>
+<edge source="(-5166.26, 2779.7)" target="(-5195.3, 2832.23)">
+  <data key="d0">609.0</data>
+</edge>
+<edge source="(-5166.26, 2779.7)" target="(-5228.45, 2861.23)">
+  <data key="d0">2934.0</data>
+</edge>
+<edge source="(-5195.3, 2832.23)" target="(-5245.72, 3038.81)">
+  <data key="d0">1479.0</data>
+</edge>
+<edge source="(-5195.3, 2832.23)" target="(-5198.07, 2978.71)">
+  <data key="d0">791.0</data>
+</edge>
+<edge source="(-5195.3, 2832.23)" target="(-5261.63, 2974.55)">
+  <data key="d0">2765.0</data>
+</edge>
+<edge source="(-5195.3, 2832.23)" target="(-5195.3, 2832.23)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5195.3, 2832.23)" target="(-5228.45, 2861.23)">
+  <data key="d0">1006.0</data>
+</edge>
+<edge source="(-5195.3, 2832.23)" target="(-5362.51, 2982.15)">
+  <data key="d0">818.0</data>
+</edge>
+<edge source="(-5228.45, 2861.23)" target="(-5245.72, 3038.81)">
+  <data key="d0">140.0</data>
+</edge>
+<edge source="(-5228.45, 2861.23)" target="(-5198.07, 2978.71)">
+  <data key="d0">1324.0</data>
+</edge>
+<edge source="(-5228.45, 2861.23)" target="(-5261.63, 2974.55)">
+  <data key="d0">211.0</data>
+</edge>
+<edge source="(-5228.45, 2861.23)" target="(-5228.45, 2861.23)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5228.45, 2861.23)" target="(-5362.51, 2982.15)">
+  <data key="d0">135.0</data>
+</edge>
+<edge source="(-7159.69, 3326.96)" target="(-7159.69, 3326.96)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7159.69, 3326.96)" target="(-7230.86, 3483.78)">
+  <data key="d0">2076.0</data>
+</edge>
+<edge source="(-7230.86, 3483.78)" target="(-7230.86, 3483.78)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5245.72, 3038.81)" target="(-5245.72, 3038.81)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5245.72, 3038.81)" target="(-5198.07, 2978.71)">
+  <data key="d0">711.0</data>
+</edge>
+<edge source="(-5245.72, 3038.81)" target="(-5261.63, 2974.55)">
+  <data key="d0">1788.0</data>
+</edge>
+<edge source="(-5245.72, 3038.81)" target="(-5362.51, 2982.15)">
+  <data key="d0">2672.0</data>
+</edge>
+<edge source="(-5198.07, 2978.71)" target="(-5198.07, 2978.71)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5198.07, 2978.71)" target="(-5261.63, 2974.55)">
+  <data key="d0">2945.0</data>
+</edge>
+<edge source="(-5198.07, 2978.71)" target="(-5362.51, 2982.15)">
+  <data key="d0">205.0</data>
+</edge>
+<edge source="(-5261.63, 2974.55)" target="(-5261.63, 2974.55)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5261.63, 2974.55)" target="(-5362.51, 2982.15)">
+  <data key="d0">850.0</data>
+</edge>
+<edge source="(-5362.51, 2982.15)" target="(-5362.51, 2982.15)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5790.89, 2758.28)" target="(-5790.89, 2758.28)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5790.89, 2758.28)" target="(-5959.5, 2879.91)">
+  <data key="d0">285.0</data>
+</edge>
+<edge source="(-5790.89, 2758.28)" target="(-5865.51, 2752.08)">
+  <data key="d0">578.0</data>
+</edge>
+<edge source="(-6805.21, 2342.34)" target="(-6805.21, 2342.34)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6805.21, 2342.34)" target="(-6711.93, 2179.95)">
+  <data key="d0">1287.0</data>
+</edge>
+<edge source="(-6805.21, 2342.34)" target="(-6675.33, 2324.36)">
+  <data key="d0">1705.0</data>
+</edge>
+<edge source="(-6805.21, 2342.34)" target="(-6680.17, 2434.22)">
+  <data key="d0">1088.0</data>
+</edge>
+<edge source="(-6805.21, 2342.34)" target="(-6939.97, 2173.73)">
+  <data key="d0">1936.0</data>
+</edge>
+<edge source="(-6711.93, 2179.95)" target="(-6711.93, 2179.95)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6711.93, 2179.95)" target="(-6702.97, 1990.63)">
+  <data key="d0">1110.0</data>
+</edge>
+<edge source="(-6711.93, 2179.95)" target="(-6584.82, 2235.23)">
+  <data key="d0">1174.0</data>
+</edge>
+<edge source="(-6711.93, 2179.95)" target="(-6675.33, 2324.36)">
+  <data key="d0">975.0</data>
+</edge>
+<edge source="(-6711.93, 2179.95)" target="(-6805.92, 2032.79)">
+  <data key="d0">1300.0</data>
+</edge>
+<edge source="(-6711.93, 2179.95)" target="(-6939.97, 2173.73)">
+  <data key="d0">700.0</data>
+</edge>
+<edge source="(-6675.33, 2324.36)" target="(-6584.82, 2235.23)">
+  <data key="d0">1103.0</data>
+</edge>
+<edge source="(-6675.33, 2324.36)" target="(-6626.97, 2498.48)">
+  <data key="d0">764.0</data>
+</edge>
+<edge source="(-6675.33, 2324.36)" target="(-6498.45, 2309.87)">
+  <data key="d0">914.0</data>
+</edge>
+<edge source="(-6675.33, 2324.36)" target="(-6477.72, 2246.28)">
+  <data key="d0">1194.0</data>
+</edge>
+<edge source="(-6675.33, 2324.36)" target="(-6675.33, 2324.36)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6675.33, 2324.36)" target="(-6680.17, 2434.22)">
+  <data key="d0">632.0</data>
+</edge>
+<edge source="(-6680.17, 2434.22)" target="(-6725.75, 2604.2)">
+  <data key="d0">931.0</data>
+</edge>
+<edge source="(-6680.17, 2434.22)" target="(-6584.82, 2235.23)">
+  <data key="d0">1457.0</data>
+</edge>
+<edge source="(-6680.17, 2434.22)" target="(-6626.97, 2498.48)">
+  <data key="d0">489.0</data>
+</edge>
+<edge source="(-6680.17, 2434.22)" target="(-6498.45, 2309.87)">
+  <data key="d0">659.0</data>
+</edge>
+<edge source="(-6680.17, 2434.22)" target="(-6680.17, 2434.22)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6939.97, 2173.73)" target="(-6805.92, 2032.79)">
+  <data key="d0">1518.0</data>
+</edge>
+<edge source="(-6939.97, 2173.73)" target="(-6939.97, 2173.73)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6725.75, 2604.2)" target="(-6725.75, 2604.2)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6725.75, 2604.2)" target="(-6626.97, 2498.48)">
+  <data key="d0">1126.0</data>
+</edge>
+<edge source="(-6725.75, 2604.2)" target="(-6610.36, 2698.17)">
+  <data key="d0">2032.0</data>
+</edge>
+<edge source="(-6725.75, 2604.2)" target="(-6744.43, 2683.68)">
+  <data key="d0">1516.0</data>
+</edge>
+<edge source="(-6725.75, 2604.2)" target="(-6553.01, 2747.93)">
+  <data key="d0">1867.0</data>
+</edge>
+<edge source="(-6626.97, 2498.48)" target="(-6626.97, 2498.48)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6626.97, 2498.48)" target="(-6610.36, 2698.17)">
+  <data key="d0">1072.0</data>
+</edge>
+<edge source="(-6626.97, 2498.48)" target="(-6498.45, 2309.87)">
+  <data key="d0">1157.0</data>
+</edge>
+<edge source="(-6626.97, 2498.48)" target="(-6445.93, 2571.74)">
+  <data key="d0">678.0</data>
+</edge>
+<edge source="(-6626.97, 2498.48)" target="(-6744.43, 2683.68)">
+  <data key="d0">1208.0</data>
+</edge>
+<edge source="(-6610.36, 2698.17)" target="(-6610.36, 2698.17)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6610.36, 2698.17)" target="(-6445.93, 2571.74)">
+  <data key="d0">1272.0</data>
+</edge>
+<edge source="(-6610.36, 2698.17)" target="(-6441.79, 2674.67)">
+  <data key="d0">1800.0</data>
+</edge>
+<edge source="(-6610.36, 2698.17)" target="(-6744.43, 2683.68)">
+  <data key="d0">552.0</data>
+</edge>
+<edge source="(-6610.36, 2698.17)" target="(-6553.01, 2747.93)">
+  <data key="d0">1132.0</data>
+</edge>
+<edge source="(-6744.43, 2683.68)" target="(-6744.43, 2683.68)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6744.43, 2683.68)" target="(-6553.01, 2747.93)">
+  <data key="d0">500.0</data>
+</edge>
+<edge source="(-6553.01, 2747.93)" target="(-6445.93, 2571.74)">
+  <data key="d0">622.0</data>
+</edge>
+<edge source="(-6553.01, 2747.93)" target="(-6441.79, 2674.67)">
+  <data key="d0">1068.0</data>
+</edge>
+<edge source="(-6553.01, 2747.93)" target="(-6553.01, 2747.93)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5531.11, 1846.22)" target="(-5531.11, 1846.22)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5531.11, 1846.22)" target="(-5696.92, 1931.22)">
+  <data key="d0">233.0</data>
+</edge>
+<edge source="(-5531.11, 1846.22)" target="(-5702.45, 1889.08)">
+  <data key="d0">1159.0</data>
+</edge>
+<edge source="(-5696.92, 1931.22)" target="(-5690.01, 2157.15)">
+  <data key="d0">741.0</data>
+</edge>
+<edge source="(-5696.92, 1931.22)" target="(-5754.27, 2130.2)">
+  <data key="d0">217.0</data>
+</edge>
+<edge source="(-5696.92, 1931.22)" target="(-5696.92, 1931.22)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5696.92, 1931.22)" target="(-5823.36, 2103.96)">
+  <data key="d0">1001.0</data>
+</edge>
+<edge source="(-5696.92, 1931.22)" target="(-5702.45, 1889.08)">
+  <data key="d0">1197.0</data>
+</edge>
+<edge source="(-5696.92, 1931.22)" target="(-5618.84, 2065.25)">
+  <data key="d0">1157.0</data>
+</edge>
+<edge source="(-5702.45, 1889.08)" target="(-5702.45, 1889.08)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5702.45, 1889.08)" target="(-5618.84, 2065.25)">
+  <data key="d0">1228.0</data>
+</edge>
+<edge source="(-8456.6, 2861.92)" target="(-8456.6, 2861.92)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8456.6, 2861.92)" target="(-8479.42, 2656.02)">
+  <data key="d0">3125.0</data>
+</edge>
+<edge source="(-8456.6, 2861.92)" target="(-8394.41, 2666.4)">
+  <data key="d0">2399.0</data>
+</edge>
+<edge source="(-8456.6, 2861.92)" target="(-8278.33, 2730.66)">
+  <data key="d0">1608.0</data>
+</edge>
+<edge source="(-8456.6, 2861.92)" target="(-8446.23, 2776.26)">
+  <data key="d0">3166.0</data>
+</edge>
+<edge source="(-8479.42, 2656.02)" target="(-8380.61, 2622.85)">
+  <data key="d0">3120.0</data>
+</edge>
+<edge source="(-8479.42, 2656.02)" target="(-8479.42, 2656.02)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8479.42, 2656.02)" target="(-8421.36, 2580.03)">
+  <data key="d0">3186.0</data>
+</edge>
+<edge source="(-8479.42, 2656.02)" target="(-8458.67, 2610.42)">
+  <data key="d0">2189.0</data>
+</edge>
+<edge source="(-8479.42, 2656.02)" target="(-8405.49, 2533.72)">
+  <data key="d0">2662.0</data>
+</edge>
+<edge source="(-8479.42, 2656.02)" target="(-8394.41, 2666.4)">
+  <data key="d0">1883.0</data>
+</edge>
+<edge source="(-8479.42, 2656.02)" target="(-8278.33, 2730.66)">
+  <data key="d0">2460.0</data>
+</edge>
+<edge source="(-8479.42, 2656.02)" target="(-8446.23, 2776.26)">
+  <data key="d0">656.0</data>
+</edge>
+<edge source="(-8394.41, 2666.4)" target="(-8380.61, 2622.85)">
+  <data key="d0">1912.0</data>
+</edge>
+<edge source="(-8394.41, 2666.4)" target="(-8421.36, 2580.03)">
+  <data key="d0">2117.0</data>
+</edge>
+<edge source="(-8394.41, 2666.4)" target="(-8458.67, 2610.42)">
+  <data key="d0">2732.0</data>
+</edge>
+<edge source="(-8394.41, 2666.4)" target="(-8405.49, 2533.72)">
+  <data key="d0">2751.0</data>
+</edge>
+<edge source="(-8394.41, 2666.4)" target="(-8394.41, 2666.4)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8394.41, 2666.4)" target="(-8278.33, 2730.66)">
+  <data key="d0">2431.0</data>
+</edge>
+<edge source="(-8394.41, 2666.4)" target="(-8446.23, 2776.26)">
+  <data key="d0">1737.0</data>
+</edge>
+<edge source="(-8278.33, 2730.66)" target="(-8380.61, 2622.85)">
+  <data key="d0">2611.0</data>
+</edge>
+<edge source="(-8278.33, 2730.66)" target="(-8421.36, 2580.03)">
+  <data key="d0">923.0</data>
+</edge>
+<edge source="(-8278.33, 2730.66)" target="(-8458.67, 2610.42)">
+  <data key="d0">2058.0</data>
+</edge>
+<edge source="(-8278.33, 2730.66)" target="(-8278.33, 2730.66)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8278.33, 2730.66)" target="(-8446.23, 2776.26)">
+  <data key="d0">1694.0</data>
+</edge>
+<edge source="(-8446.23, 2776.26)" target="(-8380.61, 2622.85)">
+  <data key="d0">2015.0</data>
+</edge>
+<edge source="(-8446.23, 2776.26)" target="(-8421.36, 2580.03)">
+  <data key="d0">2798.0</data>
+</edge>
+<edge source="(-8446.23, 2776.26)" target="(-8458.67, 2610.42)">
+  <data key="d0">1761.0</data>
+</edge>
+<edge source="(-8446.23, 2776.26)" target="(-8446.23, 2776.26)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5690.01, 2157.15)" target="(-5690.01, 2157.15)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5690.01, 2157.15)" target="(-5754.27, 2130.2)">
+  <data key="d0">883.0</data>
+</edge>
+<edge source="(-5690.01, 2157.15)" target="(-5823.36, 2103.96)">
+  <data key="d0">3108.0</data>
+</edge>
+<edge source="(-5690.01, 2157.15)" target="(-5689.32, 2252.5)">
+  <data key="d0">989.0</data>
+</edge>
+<edge source="(-5690.01, 2157.15)" target="(-5602.95, 2216.59)">
+  <data key="d0">1663.0</data>
+</edge>
+<edge source="(-5690.01, 2157.15)" target="(-5618.84, 2065.25)">
+  <data key="d0">2502.0</data>
+</edge>
+<edge source="(-5754.27, 2130.2)" target="(-5754.27, 2130.2)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5754.27, 2130.2)" target="(-5823.36, 2103.96)">
+  <data key="d0">2862.0</data>
+</edge>
+<edge source="(-5754.27, 2130.2)" target="(-5689.32, 2252.5)">
+  <data key="d0">1167.0</data>
+</edge>
+<edge source="(-5754.27, 2130.2)" target="(-5602.95, 2216.59)">
+  <data key="d0">1132.0</data>
+</edge>
+<edge source="(-5754.27, 2130.2)" target="(-5618.84, 2065.25)">
+  <data key="d0">876.0</data>
+</edge>
+<edge source="(-5823.36, 2103.96)" target="(-5823.36, 2103.96)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5823.36, 2103.96)" target="(-5689.32, 2252.5)">
+  <data key="d0">2858.0</data>
+</edge>
+<edge source="(-5823.36, 2103.96)" target="(-5618.84, 2065.25)">
+  <data key="d0">3163.0</data>
+</edge>
+<edge source="(-5689.32, 2252.5)" target="(-5689.32, 2252.5)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5689.32, 2252.5)" target="(-5602.95, 2216.59)">
+  <data key="d0">925.0</data>
+</edge>
+<edge source="(-5689.32, 2252.5)" target="(-5618.84, 2065.25)">
+  <data key="d0">895.0</data>
+</edge>
+<edge source="(-5602.95, 2216.59)" target="(-5602.95, 2216.59)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5602.95, 2216.59)" target="(-5618.84, 2065.25)">
+  <data key="d0">1121.0</data>
+</edge>
+<edge source="(-5618.84, 2065.25)" target="(-5618.84, 2065.25)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5916.64, 3092.7)" target="(-5916.64, 3092.7)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5916.64, 3092.7)" target="(-5959.5, 2879.91)">
+  <data key="d0">716.0</data>
+</edge>
+<edge source="(-5916.64, 3092.7)" target="(-5828.2, 3212.26)">
+  <data key="d0">821.0</data>
+</edge>
+<edge source="(-5916.64, 3092.7)" target="(-5975.39, 2908.91)">
+  <data key="d0">700.0</data>
+</edge>
+<edge source="(-5916.64, 3092.7)" target="(-5799.89, 3000.82)">
+  <data key="d0">1171.0</data>
+</edge>
+<edge source="(-6039.65, 2727.21)" target="(-6047.92, 2672.62)">
+  <data key="d0">465.0</data>
+</edge>
+<edge source="(-6039.65, 2727.21)" target="(-6039.65, 2727.21)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6039.65, 2727.21)" target="(-6194.43, 2749.99)">
+  <data key="d0">497.0</data>
+</edge>
+<edge source="(-6039.65, 2727.21)" target="(-5959.5, 2879.91)">
+  <data key="d0">2048.0</data>
+</edge>
+<edge source="(-6039.65, 2727.21)" target="(-6231.74, 2668.46)">
+  <data key="d0">170.0</data>
+</edge>
+<edge source="(-6039.65, 2727.21)" target="(-5975.39, 2908.91)">
+  <data key="d0">982.0</data>
+</edge>
+<edge source="(-6039.65, 2727.21)" target="(-5865.51, 2752.08)">
+  <data key="d0">2028.0</data>
+</edge>
+<edge source="(-6194.43, 2749.99)" target="(-6047.92, 2672.62)">
+  <data key="d0">880.0</data>
+</edge>
+<edge source="(-6194.43, 2749.99)" target="(-6194.43, 2749.99)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6194.43, 2749.99)" target="(-6231.74, 2668.46)">
+  <data key="d0">819.0</data>
+</edge>
+<edge source="(-5959.5, 2879.91)" target="(-6047.92, 2672.62)">
+  <data key="d0">995.0</data>
+</edge>
+<edge source="(-5959.5, 2879.91)" target="(-5959.5, 2879.91)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5959.5, 2879.91)" target="(-5975.39, 2908.91)">
+  <data key="d0">956.0</data>
+</edge>
+<edge source="(-5959.5, 2879.91)" target="(-5799.89, 3000.82)">
+  <data key="d0">1892.0</data>
+</edge>
+<edge source="(-5959.5, 2879.91)" target="(-5865.51, 2752.08)">
+  <data key="d0">804.0</data>
+</edge>
+<edge source="(-5975.39, 2908.91)" target="(-5975.39, 2908.91)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5975.39, 2908.91)" target="(-5799.89, 3000.82)">
+  <data key="d0">806.0</data>
+</edge>
+<edge source="(-5975.39, 2908.91)" target="(-5865.51, 2752.08)">
+  <data key="d0">779.0</data>
+</edge>
+<edge source="(-6506.72, 3148.67)" target="(-6432.79, 3105.85)">
+  <data key="d0">298.0</data>
+</edge>
+<edge source="(-6506.72, 3148.67)" target="(-6506.72, 3148.67)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6432.79, 3105.85)" target="(-6432.79, 3105.85)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6702.97, 1990.63)" target="(-6702.97, 1990.63)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6702.97, 1990.63)" target="(-6805.92, 2032.79)">
+  <data key="d0">947.0</data>
+</edge>
+<edge source="(-6584.82, 2235.23)" target="(-6584.82, 2235.23)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6584.82, 2235.23)" target="(-6498.45, 2309.87)">
+  <data key="d0">1270.0</data>
+</edge>
+<edge source="(-6584.82, 2235.23)" target="(-6477.72, 2246.28)">
+  <data key="d0">2489.0</data>
+</edge>
+<edge source="(-6805.92, 2032.79)" target="(-6805.92, 2032.79)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6047.92, 2672.62)" target="(-6047.92, 2672.62)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6047.92, 2672.62)" target="(-6231.74, 2668.46)">
+  <data key="d0">576.0</data>
+</edge>
+<edge source="(-6047.92, 2672.62)" target="(-5865.51, 2752.08)">
+  <data key="d0">2413.0</data>
+</edge>
+<edge source="(-6231.74, 2668.46)" target="(-6441.79, 2674.67)">
+  <data key="d0">1056.0</data>
+</edge>
+<edge source="(-6231.74, 2668.46)" target="(-6231.74, 2668.46)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5865.51, 2752.08)" target="(-5865.51, 2752.08)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6279.39, 2235.23)" target="(-6279.39, 2235.23)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6279.39, 2235.23)" target="(-6129.46, 2367.2)">
+  <data key="d0">747.0</data>
+</edge>
+<edge source="(-6279.39, 2235.23)" target="(-6477.72, 2246.28)">
+  <data key="d0">1670.0</data>
+</edge>
+<edge source="(-6129.46, 2367.2)" target="(-6050.69, 2294.65)">
+  <data key="d0">795.0</data>
+</edge>
+<edge source="(-6129.46, 2367.2)" target="(-6129.46, 2367.2)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6129.46, 2367.2)" target="(-6012.69, 2240.06)">
+  <data key="d0">1441.0</data>
+</edge>
+<edge source="(-6477.72, 2246.28)" target="(-6498.45, 2309.87)">
+  <data key="d0">900.0</data>
+</edge>
+<edge source="(-6477.72, 2246.28)" target="(-6477.72, 2246.28)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8507.06, 3404.34)" target="(-8507.06, 3404.34)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6498.45, 2309.87)" target="(-6498.45, 2309.87)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7909.38, 2940.71)" target="(-7909.38, 2940.71)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7909.38, 2940.71)" target="(-7730.4, 2816.32)">
+  <data key="d0">2146.0</data>
+</edge>
+<edge source="(-7730.4, 2816.32)" target="(-7730.4, 2816.32)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7730.4, 2816.32)" target="(-7547.32, 2873.69)">
+  <data key="d0">943.0</data>
+</edge>
+<edge source="(-7730.4, 2816.32)" target="(-7744.91, 2678.84)">
+  <data key="d0">1353.0</data>
+</edge>
+<edge source="(-6050.69, 2294.65)" target="(-6050.69, 2294.65)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6050.69, 2294.65)" target="(-6012.69, 2240.06)">
+  <data key="d0">302.0</data>
+</edge>
+<edge source="(-6012.69, 2240.06)" target="(-6012.69, 2240.06)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6445.93, 2571.74)" target="(-6445.93, 2571.74)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6445.93, 2571.74)" target="(-6441.79, 2674.67)">
+  <data key="d0">985.0</data>
+</edge>
+<edge source="(-7667.55, 2226.26)" target="(-7667.55, 2226.26)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7221.19, 2568.27)" target="(-7221.19, 2568.27)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7221.19, 2568.27)" target="(-7320.67, 2465.33)">
+  <data key="d0">1141.0</data>
+</edge>
+<edge source="(-7221.19, 2568.27)" target="(-7324.14, 2662.24)">
+  <data key="d0">1823.0</data>
+</edge>
+<edge source="(-7320.67, 2465.33)" target="(-7320.67, 2465.33)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7320.67, 2465.33)" target="(-7324.14, 2662.24)">
+  <data key="d0">620.0</data>
+</edge>
+<edge source="(-7320.67, 2465.33)" target="(-7222.55, 2307.8)">
+  <data key="d0">2084.0</data>
+</edge>
+<edge source="(-7324.14, 2662.24)" target="(-7324.14, 2662.24)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5828.2, 3212.26)" target="(-5828.2, 3212.26)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-5828.2, 3212.26)" target="(-5799.89, 3000.82)">
+  <data key="d0">782.0</data>
+</edge>
+<edge source="(-5799.89, 3000.82)" target="(-5799.89, 3000.82)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-6441.79, 2674.67)" target="(-6441.79, 2674.67)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8380.61, 2622.85)" target="(-8380.61, 2622.85)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8380.61, 2622.85)" target="(-8421.36, 2580.03)">
+  <data key="d0">1787.0</data>
+</edge>
+<edge source="(-8380.61, 2622.85)" target="(-8458.67, 2610.42)">
+  <data key="d0">2294.0</data>
+</edge>
+<edge source="(-8380.61, 2622.85)" target="(-8405.49, 2533.72)">
+  <data key="d0">1812.0</data>
+</edge>
+<edge source="(-8421.36, 2580.03)" target="(-8421.36, 2580.03)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8421.36, 2580.03)" target="(-8458.67, 2610.42)">
+  <data key="d0">2606.0</data>
+</edge>
+<edge source="(-8421.36, 2580.03)" target="(-8405.49, 2533.72)">
+  <data key="d0">2936.0</data>
+</edge>
+<edge source="(-8458.67, 2610.42)" target="(-8458.67, 2610.42)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8458.67, 2610.42)" target="(-8405.49, 2533.72)">
+  <data key="d0">2880.0</data>
+</edge>
+<edge source="(-8405.49, 2533.72)" target="(-8270.73, 2378.25)">
+  <data key="d0">1663.0</data>
+</edge>
+<edge source="(-8405.49, 2533.72)" target="(-8405.49, 2533.72)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7132.05, 2806.65)" target="(-7132.05, 2806.65)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7132.05, 2806.65)" target="(-7162.46, 2893.02)">
+  <data key="d0">1215.0</data>
+</edge>
+<edge source="(-7162.46, 2893.02)" target="(-7162.46, 2893.02)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7390.45, 3095.47)" target="(-7390.45, 3095.47)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7222.55, 2307.8)" target="(-7222.55, 2307.8)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8270.73, 2378.25)" target="(-8270.73, 2378.25)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8270.73, 2378.25)" target="(-8144.31, 2332.65)">
+  <data key="d0">2441.0</data>
+</edge>
+<edge source="(-8270.73, 2378.25)" target="(-8094.56, 2260.1)">
+  <data key="d0">2149.0</data>
+</edge>
+<edge source="(-8270.73, 2378.25)" target="(-8105.59, 2356.85)">
+  <data key="d0">2464.0</data>
+</edge>
+<edge source="(-8144.31, 2332.65)" target="(-8144.31, 2332.65)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8144.31, 2332.65)" target="(-8094.56, 2260.1)">
+  <data key="d0">3019.0</data>
+</edge>
+<edge source="(-8144.31, 2332.65)" target="(-8105.59, 2356.85)">
+  <data key="d0">2090.0</data>
+</edge>
+<edge source="(-8094.56, 2260.1)" target="(-8094.56, 2260.1)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-8094.56, 2260.1)" target="(-8105.59, 2356.85)">
+  <data key="d0">2397.0</data>
+</edge>
+<edge source="(-8105.59, 2356.85)" target="(-8105.59, 2356.85)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7547.32, 2873.69)" target="(-7547.32, 2873.69)">
+  <data key="d0">0.0</data>
+</edge>
+<edge source="(-7744.91, 2678.84)" target="(-7744.91, 2678.84)">
+  <data key="d0">0.0</data>
+</edge>
+</graph></graphml>
